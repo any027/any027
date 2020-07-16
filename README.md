@@ -1,6 +1,7 @@
-### Hello over there! 👋
+# 🦦🦦 Yo, I'm Anthony! 🦦🦦
 Welcome to my Github! 
 Feel free to check out what i'm doing and to hit me up if you wanna connect!
+
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=any027)
 
 <!--
