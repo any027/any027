@@ -1,9 +1,14 @@
 # 🦦🦦 Yo, I'm Anthony! 🦦🦦
 Welcome to my Github! 
+
+## Who am I?
+Just a lil ol' person trying to be scooby with code! 🐕  
+
+
 Feel free to check out what i'm doing and to hit me up if you wanna connect!
 
 ## Let's connect!
-- My site: https://www.anthonyyu.me
+- My personal site: https://www.anthonyyu.me
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=any027)
 
