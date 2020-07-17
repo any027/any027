@@ -1,6 +1,8 @@
 # 🦦🦦 Yo, I'm Anthony! 🦦🦦
 Welcome to my Github! 
 
+![Hello world!](https://media.giphy.com/media/2xPPojqe3mraUXS6dk/giphy.gif)
+           
 ## Who am I?
 Just a lil ol' person trying to be scooby with code! 🐕  
 
