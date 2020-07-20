@@ -6,7 +6,6 @@ Welcome to my Github!
 ## Who am I?
 Just a lil ol' person trying to be scooby with code! 🐕  
 
-
 Feel free to check out what i'm doing and to hit me up if you wanna connect!
 
 ## Let's connect!
